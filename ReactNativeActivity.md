@@ -1,0 +1,1 @@
+My favorite React Native component is FlatList. I like it because it can handle big lists without slowing down the app. The coolest prop I discovered is ListEmptyComponent—it lets you show a message or something else when the list is empty instead of just leaving a blank screen. It is super handy
